@@ -19,7 +19,7 @@
     - Material UI Core
     
 
-# start your game
+# start your app
 - open the terminal and write the following orders:
 - cd space and drag the folder that you made and enter.
 - npm i 
