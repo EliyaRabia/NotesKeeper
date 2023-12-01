@@ -17,7 +17,8 @@
 - Add extensions:
     - Material UI Icons
     - Material UI Core
-    
+- Download the Windows installer from the Nodes.js® web site.
+- Choose the recommended LTS version. 
 
 # start your app
 - open the terminal and write the following orders:
