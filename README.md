@@ -1,6 +1,9 @@
 # NotesKeeper
 
 # About
+<img width="400" alt="Screenshot 2023-12-01 110629" src="https://github.com/EliyaRabia/NotesKeeper/assets/87569799/403f196c-963a-4c7e-8684-6acb35483149">
+<img width="400" alt="Screenshot 2023-12-01 110538" src="https://github.com/EliyaRabia/NotesKeeper/assets/87569799/d8ea1098-afd8-4db5-8240-49960f103549">
+
 
 
 # Download:
