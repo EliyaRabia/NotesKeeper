@@ -1,7 +1,17 @@
 # NotesKeeper
 
 # About
-This application is designed to add, delete, and represent the message that you want to keep to yourself for control and responsibility of the tasks or things that are important to remember.
+This application was designed so that we can make a correct and responsible follow-up for our lifestyle by being able to write notes, reminders, important deadlines, etc.
+
+# instructions
+Using the application is very user-friendly and is done through a few simple actions.
+
+## new note
+To create a new note you can simply write in the note at the top and then click on the plus sign of the same node, and the new note will display on your screen.
+
+
+## delete note
+When your note is not relevant anymore for you you can delete it by clicking on the garbage symbol, and the node will be deleted. 
 
 <img width="400" alt="Screenshot 2023-12-01 110629" src="https://github.com/EliyaRabia/NotesKeeper/assets/87569799/403f196c-963a-4c7e-8684-6acb35483149">
 <img width="400" alt="Screenshot 2023-12-01 110538" src="https://github.com/EliyaRabia/NotesKeeper/assets/87569799/d8ea1098-afd8-4db5-8240-49960f103549">
